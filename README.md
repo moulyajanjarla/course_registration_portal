@@ -1,4 +1,5 @@
 Course Registration Portal
+
 Overview
 The Course Registration Portal is a web-based application that allows students, faculty, and parents to perform various tasks related to course registration in colleges. It provides a centralized system for course management and user interaction.
 
