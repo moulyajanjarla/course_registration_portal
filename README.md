@@ -1,6 +1,7 @@
 Course Registration Portal
 
 Overview
+
 The Course Registration Portal is a web-based application that allows students, faculty, and parents to perform various tasks related to course registration in colleges. It provides a centralized system for course management and user interaction.
 
 Key Features:
@@ -107,5 +108,3 @@ Review the session validation in the PHP code.
 Ensure that you created the course_registration database and imported the courses.sql file correctly in phpMyAdmin.
 Conclusion
 The Course Registration Portal is a simple, yet effective web application for managing course registrations in a college setting. The portal supports different user roles (students, faculty, parents) and provides a user-friendly interface for managing courses. This project is ideal for learning about web development, databases, and PHP-based user authentication.
-
-Feel free to modify and enhance this project for your needs!
